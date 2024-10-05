@@ -18,15 +18,25 @@ I also setup ExpressJS(install expressJS along with Nodemon and Mongoose and Thu
 While working with the nodemon I faced a problem. As follows:
 
 *nodemon : File C:\Users\hp\AppData\Roaming\npm\nodemon.ps1*
-*cannot be loaded because running scripts is disabled on*      
+
+*cannot be loaded because running scripts is disabled on*    
+
 *this system. For more information, see*
+
 *about_Execution_Policies at*
+
 *https:/go.microsoft.com/fwlink/?LinkID=135170.*
+
 *At line:1 char:1*
+
 *+ nodemon .\index.js*
+
 *+ ~~~~~~~
+
     *+ CategoryInfo          : SecurityError: (:) [], PSSecu * 
+    
    *rityException*
+   
     *+ FullyQualifiedErrorId : UnauthorizedAccess*
 
   to solve this I changeed the ExecutionPolicy sttings to unrestricted mode by going to the WINDOWS POWERSHELL (RUN AS ADMIN).
