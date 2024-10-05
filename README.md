@@ -40,3 +40,9 @@ While working with the nodemon I faced a problem. As follows:
     *+ FullyQualifiedErrorId : UnauthorizedAccess*
 
   to solve this I changeed the ExecutionPolicy sttings to unrestricted mode by going to the WINDOWS POWERSHELL (RUN AS ADMIN).
+
+   Next is Mongoose --> Mongoose is basically used to make it easy for us to code which would have been a hefty job if we use only MongoDB.It is not *Schemaless*
+
+   Lastly I used the mongoose@15.13.8 version to connect the expressJS with the mongoDB database 
+
+   *day 4* : I started with the model and schema formation.
