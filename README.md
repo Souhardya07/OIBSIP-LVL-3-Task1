@@ -46,3 +46,9 @@ While working with the nodemon I faced a problem. As follows:
    Lastly I used the mongoose@15.13.8 version to connect the expressJS with the mongoDB database 
 
    *day 4* : I started with the model and schema formation.
+
+Defination:
+   
+     Schemaless::  In MongoDB there is no restrictions with the sturcture of the data.
+       That means MongoDB never notifies the User that they are getting out of the structure.
+       
