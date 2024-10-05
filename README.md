@@ -13,3 +13,4 @@ and I typed create-react-app to make the the structure of the Web applicataion.
 *DAY 2* : I continued with the front end part and took Routes to the multipage Webapp.
 
 *Day 3* : I started with the Back end part and thus at first I started with the MONGODB (INSTALLATION AND CONNECTING WITH CLUSTER) . I used MongoDB ATLAS for this particular part.
+MONGODB is generally used in applications which have a high volumn data flow and in high frequency. 
