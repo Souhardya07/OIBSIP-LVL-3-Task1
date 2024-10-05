@@ -1,7 +1,7 @@
-*Name : Souhardya Chowdhury 
-Domain : WEB DEVELOPMENT 
-TASK : LVL 3 TASK (PIZZA DELIVERY APPLICATION)
-Organisation: OASIS INFOBYTE* 
+*Name* : Souhardya Chowdhury 
+*Domain* : WEB DEVELOPMENT 
+*TASK* : LVL 3 TASK (PIZZA DELIVERY APPLICATION)
+*Organisation*: OASIS INFOBYTE* 
 
 
 *DAY 1* : I started off with forming the front end with the help of React.js, Bootstap v5 (For adding different elements like the Cards, Cerousels, fonts, Links)
