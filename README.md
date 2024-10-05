@@ -14,4 +14,4 @@ and I typed create-react-app to make the the structure of the Web applicataion.
 
 *Day 3* : I started with the Back end part and thus at first I started with the MONGODB (INSTALLATION AND CONNECTING WITH CLUSTER) . I used MongoDB ATLAS for this particular part.
 MONGODB is generally used in applications which have a high volumn data flow and in high frequency. 
-I also setup ExpressJS(install expressJS along with Nodemon and Mongoose0.
+I also setup ExpressJS(install expressJS along with Nodemon and Mongoose and Thunder client for (Testing requests).
