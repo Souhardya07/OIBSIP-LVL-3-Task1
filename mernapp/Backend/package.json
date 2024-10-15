@@ -10,6 +10,7 @@
   "description": "",
   "dependencies": {
     "express": "^4.21.0",
+    "express-validator": "^7.2.0",
     "mongoose": "^5.13.19",
     "nodemon": "^3.1.7"
   }
