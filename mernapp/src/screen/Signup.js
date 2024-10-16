@@ -34,7 +34,7 @@ export default function SignUp() {
                     </div>
                     <div className="mb-3">
                         <label htmlFor="exampleInputEmail1" className="form-label">Email address</label>
-                        <input type="email" className="form-control" name='email' value={credentials.email} onChange={onChange} id="exampleInputEmail1" aria-decribedby="emailHelp" />
+                        <input type="email" className="form-control" name='email' value={credentials.email} onChange={onChange} id="exampleInputEmail1" aria-describedby="emailHelp" />
                         <div id="emailHelp" className="form-text">We'll never access your email with anyone email id.</div>
                     </div>
                     <div className="mb-3">
@@ -43,7 +43,7 @@ export default function SignUp() {
                     </div>
                     <div className="mb-3">
                         <label htmlFor="exampleInputPassword" className="form-label">Address</label>
-                        <input type="text" className="form-control" id="exampleInputPassword1" name='geolocation' value={credentials.geolocation} onChange={onChange} />
+                        <input type="text" className="form-control" id="exampleInputLocation1" name='geolocation' value={credentials.geolocation} onChange={onChange} />
                     </div>
                     <button type="submit" className="m-3 btn btn-info">submit</button>
                     <Link to="/login" className='m-3 btn btn-danger'>Already a User</Link>
